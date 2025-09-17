@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", 'zahran-musyaffa-footballnews.pbp.cs.ui.ac.id']
 
-CSRF_TRUSTED_ORIGINS = ["https://zahran-musyaffa-footballnews.pbp.cs.ui.ac.id"]
+CSRF_TRUSTED_ORIGINS = ["http://zahran-musyaffa-footballnews.pbp.cs.ui.ac.id"]
 
 
 # Application definition
